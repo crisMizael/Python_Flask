@@ -12,11 +12,11 @@
 
 ## Meta
 
-Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
+Cristiano Mizael – [@cris_mizael](https://twitter.com/cris_mizael)
 
 Distributed under the XYZ license. See ``LICENSE`` for more information.
 
-[https://github.com/yourname/github-link](https://github.com/dbader/)
+[https://github.com/crisMizael](https://github.com/crisMizael/)
 
 ## Contributing
 
